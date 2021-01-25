@@ -37,7 +37,7 @@ function App() {
       }}
         />
       </div>
-      <Content>
+      <Content style={{backgroundColor: '#323232'}}>
           <div style={{margin: "30px 0"}}>
             <Routes />
         </div>

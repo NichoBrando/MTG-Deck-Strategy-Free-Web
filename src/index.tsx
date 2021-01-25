@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'carbon-components/css/carbon-components.css';
+import './styles/index.css';
 
 ReactDOM.render(
   <React.StrictMode>
